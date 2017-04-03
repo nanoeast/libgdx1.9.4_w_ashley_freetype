@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="output" path="bin"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry sourcepath="vendor/gdx-1.9.4-sources.jar" kind="lib" path="vendor/gdx-1.9.4.jar"/>
+  <classpathentry sourcepath="vendor/gdx-freetype-1.9.4-sources.jar" kind="lib" path="vendor/gdx-freetype-1.9.4.jar"/>
+  <classpathentry sourcepath="vendor/ashley-1.7.0-sources.jar" kind="lib" path="vendor/ashley-1.7.0.jar"/>
+</classpath>

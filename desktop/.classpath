@@ -1,0 +1,27 @@
+<classpath>
+  <classpathentry kind="output" path="bin"/>
+  <classpathentry kind="src" path="src"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="src" path="/template-core"/>
+  <classpathentry sourcepath="vendor/gdx-backend-lwjgl-1.9.4-sources.jar" kind="lib" path="vendor/gdx-backend-lwjgl-1.9.4.jar"/>
+  <classpathentry kind="lib" path="vendor/gdx-platform-1.9.4-natives-desktop.jar"/>
+  <classpathentry kind="lib" path="vendor/gdx-freetype-platform-1.9.4-natives-desktop.jar"/>
+  <classpathentry sourcepath="venndor/gdx-tools-1.9.4-sources.jar" kind="lib" path="vendor/gdx-tools-1.9.4.jar"/>
+  <classpathentry sourcepath="vendor/gdx-1.9.4-sources.jar" kind="lib" path="vendor/gdx-1.9.4.jar"/>
+  <classpathentry sourcepath="vendor/gdx-freetype-1.9.4-sources.jar" kind="lib" path="vendor/gdx-freetype-1.9.4.jar"/>
+  <classpathentry sourcepath="vendor/ashley-1.7.0-sources.jar" kind="lib" path="vendor/ashley-1.7.0.jar"/>
+  <classpathentry sourcepath="vendor/lwjgl-2.9.2-sources.jar" kind="lib" path="vendor/lwjgl-2.9.2.jar"/>
+  <classpathentry sourcepath="vendor/lwjgl_util-2.9.2-sources.jar" kind="lib" path="vendor/lwjgl_util-2.9.2.jar"/>
+  <classpathentry sourcepath="vendor/jlayer-1.0.1-gdx-sources.jar" kind="lib" path="vendor/jlayer-1.0.1-gdx.jar"/>
+  <classpathentry sourcepath="vendor/jorbis-0.0.17-sources.jar" kind="lib" path="vendor/jorbis-0.0.17.jar"/>
+  <classpathentry sourcepath="vendor/gdx-backend-headless-1.9.4-sources.jar" kind="lib" path="vendor/gdx-backend-headless-1.9.4.jar"/>
+  <classpathentry kind="lib" path="vendor/lwjgl-platform-2.9.2-natives-windows.jar"/>
+  <classpathentry kind="lib" path="vendor/lwjgl-platform-2.9.2-natives-linux.jar"/>
+  <classpathentry kind="lib" path="vendor/lwjgl-platform-2.9.2-natives-osx.jar"/>
+  <classpathentry sourcepath="vendor/jinput-2.0.5-sources.jar" kind="lib" path="vendor/jinput-2.0.5.jar"/>
+  <classpathentry sourcepath="vendor/jutils-1.0.0-sources.jar" kind="lib" path="vendor/jutils-1.0.0.jar"/>
+  <classpathentry kind="lib" path="vendor/jinput-platform-2.0.5-natives-linux.jar"/>
+  <classpathentry kind="lib" path="vendor/jinput-platform-2.0.5-natives-windows.jar"/>
+  <classpathentry kind="lib" path="vendor/jinput-platform-2.0.5-natives-osx.jar"/>
+  <classpathentry kind="src" path="assets"/>
+</classpath>
